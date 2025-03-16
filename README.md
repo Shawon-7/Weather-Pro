@@ -1,4 +1,6 @@
-# Weather-Pro
-Web Application that show the real time monitoring climate based on every location using weather API and web tech stacks 
+Watch it on youtube now...
+https://www.youtube.com/watch?v=eEol4dyNQnU
 
-![Weather_Web](https://github.com/user-attachments/assets/cd5f8fd9-5979-4844-bd58-b0f299684f30)
+Project view...
+
+# weather![Slide_1](https://user-images.githubusercontent.com/68517660/177348931-9d15bac7-14bb-4cdb-838a-26455f18d3fc.jpg)
